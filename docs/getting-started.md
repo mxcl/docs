@@ -38,6 +38,8 @@ curl -fsSL https://raw.githubusercontent.com/spicetify/marketplace/main/resource
 
 ## Basic Usage
 
+Ensure Spotify is not running, then execute `spicetify backup apply` to install Spicify into your Spotify app instance.
+
 After installing Spicetify and Spicetify's Marketplace, you can use it to customize your Spotify client using all the available **extensions** and **themes** found in the Marketplace.
 
 ### Updating
